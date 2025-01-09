@@ -141,7 +141,7 @@
             this.panel2.Controls.Add(this.label4);
             this.panel2.Location = new System.Drawing.Point(14, 14);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(183, 130);
+            this.panel2.Size = new System.Drawing.Size(192, 130);
             this.panel2.TabIndex = 3;
             // 
             // lblTurkiyeCapacityAvg
@@ -203,9 +203,9 @@
             this.panel4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(119)))), ((int)(((byte)(139)))), ((int)(((byte)(235)))));
             this.panel4.Controls.Add(this.lblMaxPrice);
             this.panel4.Controls.Add(this.label8);
-            this.panel4.Location = new System.Drawing.Point(14, 15);
+            this.panel4.Location = new System.Drawing.Point(18, 15);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(175, 121);
+            this.panel4.Size = new System.Drawing.Size(188, 121);
             this.panel4.TabIndex = 3;
             // 
             // lblMaxPrice
@@ -224,7 +224,7 @@
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Mongolian Baiti", 14.25F, System.Drawing.FontStyle.Bold);
             this.label8.ForeColor = System.Drawing.SystemColors.Info;
-            this.label8.Location = new System.Drawing.Point(47, 18);
+            this.label8.Location = new System.Drawing.Point(48, 18);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(96, 40);
             this.label8.TabIndex = 1;
@@ -235,9 +235,9 @@
             this.lblMaxCapacity.BackColor = System.Drawing.Color.Orchid;
             this.lblMaxCapacity.Controls.Add(this.lblMaxCapactyy);
             this.lblMaxCapacity.Controls.Add(this.label10);
-            this.lblMaxCapacity.Location = new System.Drawing.Point(13, 15);
+            this.lblMaxCapacity.Location = new System.Drawing.Point(14, 15);
             this.lblMaxCapacity.Name = "lblMaxCapacity";
-            this.lblMaxCapacity.Size = new System.Drawing.Size(200, 121);
+            this.lblMaxCapacity.Size = new System.Drawing.Size(199, 121);
             this.lblMaxCapacity.TabIndex = 3;
             // 
             // lblMaxCapactyy
@@ -299,9 +299,9 @@
             this.panel7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(214)))), ((int)(((byte)(162)))), ((int)(((byte)(232)))));
             this.panel7.Controls.Add(this.lblLastCountryId);
             this.panel7.Controls.Add(this.label14);
-            this.panel7.Location = new System.Drawing.Point(12, 14);
+            this.panel7.Location = new System.Drawing.Point(14, 15);
             this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(201, 122);
+            this.panel7.Size = new System.Drawing.Size(199, 122);
             this.panel7.TabIndex = 3;
             // 
             // lblLastCountryId
@@ -429,7 +429,7 @@
             this.panel11.Controls.Add(this.lblAvgCapacity);
             this.panel11.Location = new System.Drawing.Point(17, 17);
             this.panel11.Name = "panel11";
-            this.panel11.Size = new System.Drawing.Size(187, 122);
+            this.panel11.Size = new System.Drawing.Size(197, 122);
             this.panel11.TabIndex = 4;
             // 
             // lblA
@@ -512,7 +512,7 @@
             this.panel12.Controls.Add(this.panel2);
             this.panel12.Location = new System.Drawing.Point(827, 220);
             this.panel12.Name = "panel12";
-            this.panel12.Size = new System.Drawing.Size(214, 157);
+            this.panel12.Size = new System.Drawing.Size(223, 157);
             this.panel12.TabIndex = 9;
             // 
             // panel15
@@ -566,7 +566,7 @@
             this.panel20.Controls.Add(this.panel11);
             this.panel20.Location = new System.Drawing.Point(819, 29);
             this.panel20.Name = "panel20";
-            this.panel20.Size = new System.Drawing.Size(222, 157);
+            this.panel20.Size = new System.Drawing.Size(231, 157);
             this.panel20.TabIndex = 9;
             // 
             // panel21
@@ -584,7 +584,7 @@
             this.panel22.Controls.Add(this.panel4);
             this.panel22.Location = new System.Drawing.Point(827, 404);
             this.panel22.Name = "panel22";
-            this.panel22.Size = new System.Drawing.Size(214, 157);
+            this.panel22.Size = new System.Drawing.Size(223, 160);
             this.panel22.TabIndex = 9;
             // 
             // panel23

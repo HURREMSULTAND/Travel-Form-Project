@@ -53,6 +53,6 @@ namespace CSharpEğitimKampı301.EFProjectt
 
         }
 
-       
+        
     }
 }
