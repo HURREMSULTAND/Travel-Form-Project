@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEğitimKampı301.EntityLayer", "CSharpEğitimKampı301EntityLayer\CSharpEğitimKampı301.EntityLayer.csproj", "{F4C45CE1-ABD2-44A7-A463-C7221DD64E85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEğitimKampı301.DataAccessLayer", "CSharpEğitimKampı301.DataAccessLayer\CSharpEğitimKampı301.DataAccessLayer.csproj", "{45DD1933-FF56-49C5-AE61-4C03B7049DC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEğitimKampı301.BusinessLayer", "CSharpEğitimKampı301.BusinessLayer\CSharpEğitimKampı301.BusinessLayer.csproj", "{CE8DC09E-9514-4C03-8560-87262C37F373}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEğitimKampı301.PresentationLayer", "CSharpEğitimKampı301.PresentationLayer\CSharpEğitimKampı301.PresentationLayer.csproj", "{5F34264A-0282-4641-BDE7-E6DD2E7D29FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEğitimKampı301.EFProjectt", "CSharpEğitimKampı301.EFProjectt\CSharpEğitimKampı301.EFProjectt.csproj", "{75834521-47BC-4BCC-A7FE-8516CEDA3A1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4C45CE1-ABD2-44A7-A463-C7221DD64E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4C45CE1-ABD2-44A7-A463-C7221DD64E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4C45CE1-ABD2-44A7-A463-C7221DD64E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4C45CE1-ABD2-44A7-A463-C7221DD64E85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45DD1933-FF56-49C5-AE61-4C03B7049DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45DD1933-FF56-49C5-AE61-4C03B7049DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45DD1933-FF56-49C5-AE61-4C03B7049DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45DD1933-FF56-49C5-AE61-4C03B7049DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE8DC09E-9514-4C03-8560-87262C37F373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE8DC09E-9514-4C03-8560-87262C37F373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE8DC09E-9514-4C03-8560-87262C37F373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE8DC09E-9514-4C03-8560-87262C37F373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F34264A-0282-4641-BDE7-E6DD2E7D29FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F34264A-0282-4641-BDE7-E6DD2E7D29FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F34264A-0282-4641-BDE7-E6DD2E7D29FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F34264A-0282-4641-BDE7-E6DD2E7D29FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75834521-47BC-4BCC-A7FE-8516CEDA3A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75834521-47BC-4BCC-A7FE-8516CEDA3A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75834521-47BC-4BCC-A7FE-8516CEDA3A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75834521-47BC-4BCC-A7FE-8516CEDA3A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {998FAA86-B4BD-4061-A5A2-F0B8EA800E24}
+	EndGlobalSection
+EndGlobal
